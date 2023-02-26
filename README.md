@@ -8,7 +8,7 @@ This role installs Prometheus' [Node exporter](https://github.com/prometheus/nod
 
 ## Requirements
 
-N/A
+N/A.
 
 ## Role Variables
 
