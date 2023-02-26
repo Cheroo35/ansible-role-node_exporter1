@@ -1,11 +1,11 @@
 ---
 dependencies: []
 galaxy_info:
-  author: geerlingguy
+  author: Ernest
   role_name: node_exporter
   description: Prometheus' node_exporter for Linux hosts.
-  company: Midwestern Mac, LLC
-  license: license (MIT)
+  company: DSG
+  license: 
   min_ansible_version: 2.7
   platforms:
     - name: EL
