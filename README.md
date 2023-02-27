@@ -12,6 +12,8 @@ N/A.
 
 ## Role Variables
 
+o
+
 Available variables are listed below, along with default values (see `defaults/main.yml`):
 
     node_exporter_version: '0.18.1'
